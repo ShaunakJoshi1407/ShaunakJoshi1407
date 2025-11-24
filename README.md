@@ -39,7 +39,7 @@ Tech: Python, Go, Jenkins, GitHub Actions, REST APIs, Bash, Snyk, SonarQube, pyt
 
 - Portfolio: https://portfolio-website-shaunak.vercel.app/
 - Resume: https://drive.google.com/file/d/1CX9i6hnIIB12TJONcOoDOyHMHq_VPU_q/view
-- Email: shaunakjoshi@tamu.edu
+- Email: shaunakjoshi1407@gmail.com
 
 ## Connect with me
 
