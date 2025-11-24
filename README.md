@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shaunakjoshi@tamu.edu**
 
-- 📄 Know about my experiences here in my [Resume](https://drive.google.com/file/d/1RhTpu6p3HI3F4wtUjVXkh5smQwc2dfic/view)
+- 📄 Know about my experiences here in my [Resume](https://drive.google.com/file/d/1CX9i6hnIIB12TJONcOoDOyHMHq_VPU_q/view)
 
 - ⚡ Fun fact **eyond my professional life, I enjoy playing tennis, following football and Formula 1, and reading a variety of literature, from mythological tales to murder mysteries.**
 
