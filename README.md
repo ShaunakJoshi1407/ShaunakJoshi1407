@@ -59,7 +59,6 @@ Currently open to **MLOps**, **DevOps**, and **Distributed Systems** roles where
 ## Currently
 
 - Studying ML/AI techniques applied to distributed systems and MLOps patterns
-- Preparing for **AWS Certified Solutions Architect — Associate (SAA-C03)**
 
 ---
 
